@@ -2,13 +2,13 @@ about:
   description: "A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS."
   license: MIT
   homepage: https://crates.io/crates/somo
-  head: a817412
+  head: bf9a5d6
   archived: false
   latestVersion: "v1.3.4"
-  collectedAt: 2026-09-07T06:16:33Z
+  collectedAt: 2026-09-07T18:17:13Z
 timeline:
   created: 2023-05-15
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-17
 popularity:
   star: 2619
@@ -28,61 +28,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 7
-    openPR: 1
+    mergedPR: 8
+    openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 5
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 13
-    openPR: 1
+    mergedPR: 14
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 12
   last90d:
     since: 2026-06-09
     release: 1
-    mergedPR: 17
-    openPR: 1
+    mergedPR: 18
+    openPR: 0
     closedIssue: 1
     openIssue: 0
-    commit: 0
+    commit: 18
   last180d:
     since: 2026-03-11
     release: 3
-    mergedPR: 37
-    openPR: 1
+    mergedPR: 38
+    openPR: 0
     closedIssue: 1
     openIssue: 1
-    commit: 0
+    commit: 35
   last360d:
     since: 2025-09-12
     release: 5
-    mergedPR: 93
-    openPR: 1
+    mergedPR: 94
+    openPR: 0
     closedIssue: 2
     openIssue: 1
-    commit: 0
+    commit: 95
   last720d:
     since: 2024-09-17
     release: 8
-    mergedPR: 142
-    openPR: 1
+    mergedPR: 143
+    openPR: 0
     closedIssue: 28
     openIssue: 4
-    commit: 443
+    commit: 445
 total:
   release: 9
-  mergedPR: 143
-  openPR: 1
+  mergedPR: 144
+  openPR: 0
   closedIssue: 28
   openIssue: 4
-  commit: 477
+  commit: 479
 ---
 path: /home/runner/.x-repo/github.com/theopfr/somo
-collectedAt: 2026-09-07T06:16:33Z
+collectedAt: 2026-09-07T18:17:15Z
 loc:
   Rust:
     code: 2551
@@ -123,7 +123,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:16:34+00:00
+  collectedAt: 2026-09-07T18:17:17+00:00
   platform:
     darwin/arm64:
       name:  null
