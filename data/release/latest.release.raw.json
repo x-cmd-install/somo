@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 792080,
       "digest": "sha256:5d6a9d93a33a39f1593412f83f21b4feb277b3d15d3f194d6b97e7db3be538f1",
-      "download_count": 32,
+      "download_count": 34,
       "created_at": "2026-08-17T08:34:38Z",
       "updated_at": "2026-08-17T08:34:38Z",
       "browser_download_url": "https://github.com/theopfr/somo/releases/download/v1.3.4/somo-1.3.4-10-321410a31a1b13985617b96865f22a49fa17ab1d.deb"
