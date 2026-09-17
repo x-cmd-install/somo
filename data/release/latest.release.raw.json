@@ -78,8 +78,8 @@
   "body": "## [1.4.0] - 12.09.2026\n- **add** connection filtering by user, by @oiahoon\n- **bump** dependencies, by @dependabot",
   "reactions": {
     "url": "https://api.github.com/repos/theopfr/somo/releases/387612180/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
