@@ -4,7 +4,7 @@
 
 A human-friendly alternative to netstat for socket and port monitoring on Linux and macOS.
 
-[![x-cmd/install — somo Code Quality Monitoring Repo Card](https://repo.x-cmd.io/somo.svg?lang=zh)](https://x-cmd.com/install/somo)
+[![x-cmd/install — somo Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/somo.svg?lang=zh)](https://x-cmd.com/install/somo)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install somo
 
 ## 流行度
 
-- **Star**: 2,621 · **Fork**: 66 · **开放 issue**: 32 · **贡献者**: 17
+- **Star**: 2,621 · **Fork**: 67 · **开放 issue**: 33 · **贡献者**: 17
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 148 · **开放 PR**: 0 · **已关闭 issue**: 28 · **开放 issue**: 4 · **提交数**: 487
+- **发布数**: 10 · **已合并 PR**: 148 · **开放 PR**: 0 · **已关闭 issue**: 28 · **开放 issue**: 5 · **提交数**: 487
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 6 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-24 | 2 | 14 | 0 | 0 | 0 | 16 |
-| 90d | 2026-06-24 | 2 | 20 | 0 | 1 | 0 | 20 |
-| last180d | 2026-03-26 | 3 | 37 | 0 | 1 | 1 | 38 |
-| 360d | 2025-09-27 | 6 | 89 | 0 | 2 | 1 | 97 |
-| last720d | 2024-10-02 | 9 | 147 | 0 | 28 | 4 | 453 |
+| 30d | 2026-08-24 | 1 | 6 | 0 | 0 | 1 | 6 |
+| last60d | 2026-07-25 | 2 | 14 | 0 | 0 | 1 | 16 |
+| 90d | 2026-06-25 | 2 | 20 | 0 | 1 | 1 | 20 |
+| last180d | 2026-03-27 | 3 | 37 | 0 | 1 | 2 | 38 |
+| 360d | 2025-09-28 | 6 | 89 | 0 | 2 | 2 | 97 |
+| last720d | 2024-10-03 | 9 | 147 | 0 | 28 | 5 | 453 |
 
 ## Release 资产
 
@@ -70,4 +70,4 @@ somo 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:44:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:49:14Z._
