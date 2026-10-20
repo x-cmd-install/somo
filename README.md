@@ -33,27 +33,27 @@ Total: **2,733** lines of code across **21** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.0` (2026-09-12)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-19
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,622 · **Forks**: 69 · **Open issues**: 33 · **Contributors**: 17
+- **Stars**: 2,624 · **Forks**: 69 · **Open issues**: 33 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 150 · **Open PRs**: 1 · **Closed issues**: 28 · **Open issues**: 5 · **Commits**: 491
+- **Releases**: 10 · **Merged PRs**: 151 · **Open PRs**: 0 · **Closed issues**: 28 · **Open issues**: 5 · **Commits**: 493
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 4 | 1 | 0 | 1 | 2 |
-| last60d | 2026-08-20 | 1 | 8 | 1 | 0 | 1 | 8 |
-| 90d | 2026-07-21 | 2 | 16 | 1 | 0 | 1 | 18 |
-| last180d | 2026-04-22 | 3 | 35 | 1 | 1 | 1 | 32 |
-| 360d | 2025-10-24 | 5 | 78 | 1 | 2 | 2 | 76 |
-| last720d | 2024-10-29 | 9 | 149 | 1 | 28 | 5 | 457 |
+| 30d | 2026-09-20 | 0 | 5 | 0 | 0 | 1 | 3 |
+| last60d | 2026-08-21 | 1 | 9 | 0 | 0 | 1 | 9 |
+| 90d | 2026-07-22 | 2 | 17 | 0 | 0 | 1 | 19 |
+| last180d | 2026-04-23 | 3 | 36 | 0 | 1 | 1 | 33 |
+| 360d | 2025-10-25 | 5 | 79 | 0 | 2 | 2 | 77 |
+| last720d | 2024-10-30 | 9 | 150 | 0 | 28 | 5 | 459 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for somo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:59:19Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T06:15:43Z._
