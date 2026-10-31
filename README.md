@@ -48,12 +48,12 @@ Total: **2,733** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-08-31 | 1 | 8 | 1 | 0 | 1 | 8 |
-| 90d | 2026-08-01 | 2 | 16 | 1 | 0 | 1 | 19 |
-| last180d | 2026-05-03 | 2 | 31 | 1 | 1 | 1 | 31 |
-| 360d | 2025-11-04 | 5 | 73 | 1 | 2 | 2 | 73 |
-| last720d | 2024-11-09 | 9 | 150 | 1 | 28 | 5 | 459 |
+| 30d | 2026-10-01 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-01 | 1 | 8 | 1 | 0 | 1 | 8 |
+| 90d | 2026-08-02 | 2 | 16 | 1 | 0 | 1 | 19 |
+| last180d | 2026-05-04 | 2 | 31 | 1 | 1 | 1 | 31 |
+| 360d | 2025-11-05 | 5 | 73 | 1 | 2 | 2 | 73 |
+| last720d | 2024-11-10 | 9 | 150 | 1 | 28 | 5 | 459 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for somo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T07:11:48Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:59:41Z._
