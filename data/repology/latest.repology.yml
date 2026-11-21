@@ -1,16 +1,31 @@
-- repo: homebrew
-  srcname: somo
-  visiblename: somo
-  version: 1.4.0
-  origversion: null
-  status: newest
-  summary: Human-friendly alternative to netstat for socket and port monitoring
 - repo: nix_stable_25_11
   srcname: somo
   visiblename: somo
   version: 1.3.3
   origversion: null
   status: outdated
+  summary: Socket and port monitoring tool
+  maintainers:
+    - kachick1@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: somo
+  visiblename: somo
+  version: 1.3.4
+  origversion: null
+  status: outdated
+  summary: Socket and port monitoring tool
+  maintainers:
+    - kachick1@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: somo
+  visiblename: somo
+  version: 1.4.0
+  origversion: null
+  status: newest
   summary: Socket and port monitoring tool
   maintainers:
     - kachick1@gmail.com
@@ -53,31 +68,16 @@
   status: rolling
   summary: A tool written in Rust for port management
   maintainers:
-    - giteeajake@aur
+    - fallback-mnt-aur@repology
   licenses:
     - MIT
-- repo: nix_stable_26_05
-  srcname: somo
-  visiblename: somo
-  version: 1.3.4
-  origversion: null
-  status: outdated
-  summary: Socket and port monitoring tool
-  maintainers:
-    - kachick1@gmail.com
-  licenses:
-    - MIT
-- repo: nix_unstable
+- repo: homebrew
   srcname: somo
   visiblename: somo
   version: 1.4.0
   origversion: null
   status: newest
-  summary: Socket and port monitoring tool
-  maintainers:
-    - kachick1@gmail.com
-  licenses:
-    - MIT
+  summary: Human-friendly alternative to netstat for socket and port monitoring
 - repo: void_x86_64
   subrepo: x86_64
   srcname: somo
