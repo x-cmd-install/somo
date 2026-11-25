@@ -48,28 +48,18 @@ Total: **2,733** lines of code across **21** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 7 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-25 | 0 | 10 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-26 | 1 | 16 | 0 | 0 | 1 | 16 |
-| last180d | 2026-05-28 | 2 | 32 | 0 | 1 | 1 | 32 |
-| 360d | 2025-11-29 | 4 | 75 | 0 | 2 | 2 | 74 |
-| last720d | 2024-12-04 | 9 | 157 | 0 | 28 | 5 | 473 |
+| 30d | 2026-10-26 | 0 | 6 | 0 | 0 | 0 | 6 |
+| last60d | 2026-09-26 | 0 | 10 | 0 | 0 | 0 | 9 |
+| 90d | 2026-08-27 | 1 | 16 | 0 | 0 | 1 | 16 |
+| last180d | 2026-05-29 | 2 | 32 | 0 | 1 | 1 | 32 |
+| 360d | 2025-11-30 | 4 | 75 | 0 | 2 | 2 | 74 |
+| last720d | 2024-12-05 | 9 | 157 | 0 | 28 | 5 | 473 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [somo-1.4.0-11-21aeabb8b2e02a7b76fda81e9dd72f88083835f8.deb](https://github.com/theopfr/somo/releases/download/v1.4.0/somo-1.4.0-11-21aeabb8b2e02a7b76fda81e9dd72f88083835f8.deb) | 785.2 KiB | `other` |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/somo). **4** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.4.0` | ✅ latest |
-| Nix unstable | `1.4.0` | ✅ latest |
-| Void | `1.4.0` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +70,4 @@ Install metadata for somo lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T10:58:07Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:43:19Z._
